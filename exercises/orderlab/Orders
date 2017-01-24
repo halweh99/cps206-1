@@ -1,0 +1,33 @@
+import java.io.*;
+import java.util.*;
+public class orders {
+    
+   public orders() {
+    
+   public static void main (string[] args) throws Exception {
+    
+    
+   for(String newfilename; args){trows Exception
+   new(
+      readfile(filename);
+      }catch (IOException x) {
+      
+      String: filename= pullfilename (newfilename);
+       
+   }
+ }
+ 
+ public class item{
+ 
+   private String name;
+   private double price;
+   private int quantity;
+    
+   public item (String M, double P, int Q){
+     name=M;
+     price=P;
+     quantity=Q;
+      
+     }
+        
+    }
